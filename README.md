@@ -1,6 +1,6 @@
 # sistema_fotovoltaico_grafic_consumo
-Demonstração do conhecimento adquirido na Alura,na imersão #dados_python. É incrível como em poucas linhas de códigos é possível criar gráficos📊! Escolhi o Sistema Fotovoltaico( Solar) pois sou apaixonado apaixonadona por energia renováveis! E meu projeto e instalação real de energia elétrica, precisei criar gráfico de consumo para ter insights valisosos!
-
+Demonstração do conhecimento adquirido na Alura, na imersão #dados_python. É incrível como em poucas linhas de códigos é possível criar gráficos📊! Escolhi o Sistema Fotovoltaico( Solar) para criar gráficos de Geração e Consumo elétrico. pois sou apaixonadona por energia renováveis e tecnologia! E para meu projeto e instalação real de energia elétrica, ser perfeito precisei criar gráficos de consumo para ter insights valiosos. 
+🙏🙏💎📚🛠🪛🔧🪜💰💸📱🎖🥊🥊♥️🙏🙏
 ​Análise e Otimização do Consumo de Energia Solar Residencial
 ​Este projeto documenta minha jornada autodidata para entender, monitorar e otimizar o consumo de energia da minha casa, após instalar um sistema fotovoltaico por conta própria.
 ​Contexto do Projeto
@@ -10,7 +10,7 @@ Demonstração do conhecimento adquirido na Alura,na imersão #dados_python. É 
 ​Análise de Dados com IA: Utilizando o Google Colab, criei um script de análise de dados para processar as informações de geração e consumo de energia. O grande diferencial foi usar ferramentas de Inteligência Artificial para gerar gráficos e identificar padrões que me ajudam a tomar decisões inteligentes sobre o uso de eletricidade.
 ​Gráficos de Consumo e Geração: Os gráficos gerados mostram a relação entre a energia que meu sistema produz e a que minha casa consome em diferentes períodos do dia. Essa visualização é crucial para:
 ​Identificar Picos de Consumo: Saber em que horários a demanda de energia é maior.
-​Maximizar o Autoconsumo: Planejar o uso de eletrodomésticos (como máquina de lavar, furadeira, fogão elétrico freezer, para os momentos de maior produção solar.
+​Maximizar o Autoconsumo: Planejar o uso de eletrodomésticos (como máquina de lavar, freezer,  furadeira, fogãoelétrico, etc,) para os momentos de maior produção solar.
 ​Otimizar o Uso da Bateria : Entender quando armazenar ou usar a energia acumulada.
 ​O Código: O repositório inclui o código desenvolvido no Google Colab, que pode ser adaptado para quem deseja realizar uma análise similar do seu próprio consumo de energia.
 ​Por que isso é importante?
